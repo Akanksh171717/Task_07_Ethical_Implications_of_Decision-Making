@@ -46,7 +46,6 @@ As a coach or performance analyst, the objective is to identify:
 Task_07_Ethical_Implications_of_Decision-Making/
 ├─ Dataset/
 │  └─ epl_player_stats_24_25.csv
-│
 ├─ outputs/
 │  ├─ player_summary.csv
 │  ├─ top_scorers.csv
@@ -55,16 +54,14 @@ Task_07_Ethical_Implications_of_Decision-Making/
 │  ├─ top_cts.csv
 │  ├─ top_sca_proxy.csv
 │  ├─ top_sca_proxy_per90.csv
-│  └─ top_chance_creation.csv
-│
+│  ├─ top_chance_creation.csv
 ├─ Scripts/
-│  ├─ EDA.ipynb                 # Exploratory data analysis
-│  └─ Verify_LLM.ipynb          # Verification of LLM claims
-│
+│  ├─ EDA.ipynb
+│  └─ Verify_LLM.ipynb
 ├─ Report/
 │  └─ TASK07_Report.pdf
-│
 └─ README.md
+
 
 
 
