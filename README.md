@@ -44,28 +44,28 @@ As a coach or performance analyst, the objective is to identify:
 
 ### 📂 Repository Structure  
 Task_07_Ethical_Implications_of_Decision-Making/
+├─ Dataset/
+│  └─ epl_player_stats_24_25.csv
 │
-├── Dataset/
-│ └── epl_player_stats_24_25.csv
+├─ outputs/
+│  ├─ player_summary.csv
+│  ├─ top_scorers.csv
+│  ├─ top_assists.csv
+│  ├─ top_clean_sheets.csv
+│  ├─ top_cts.csv
+│  ├─ top_sca_proxy.csv
+│  ├─ top_sca_proxy_per90.csv
+│  └─ top_chance_creation.csv
 │
-├── outputs/
-│ ├── top_scorers.csv
-│ ├── top_assists.csv
-│ ├── top_clean_sheets.csv
-│ ├── top_cts.csv
-│ ├── top_sca_proxy.csv
-│ ├── top_sca_proxy_per90.csv
-│ ├── top_chance_creation.csv
-│ └── player_summary.csv
+├─ Scripts/
+│  ├─ EDA.ipynb                 # Exploratory data analysis
+│  └─ Verify_LLM.ipynb          # Verification of LLM claims
 │
-├── Scripts/
-│ ├── EDA.ipynb # Exploratory data analysis
-│ └── Verify_LLM.ipynb # Verification of LLM claims
+├─ Report/
+│  └─ TASK07_Report.pdf
 │
-├── Report/
-│ └── TASK07_Report.pdf
-│
-└── README.md
+└─ README.md
+
 
 
 ---
